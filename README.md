@@ -1,4 +1,4 @@
-# ParallelProgramming : parprog1
+# Functional Programming Design in Scala : progfun2
 
 사이트 링크 : https://www.coursera.org/learn/progfun2/home/info
 
