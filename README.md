@@ -16,6 +16,8 @@
  - 9월  5일 (월) : 3주차 내용 공유 4주차 Assignments 진행 및 회고
  - 9월  12일 (월) : 4주차 내용 공유 4주차 Assignments 진행 및 회고
 
-# 목차
+# 스터디 자료 링크
 
-[Recap: Functions and Pattern Matching](./week1/recap-functions-and-pattern-matching.asc)
+## Week 1
+
+* [Recap: Functions and Pattern Matching](./week1/recap-functions-and-pattern-matching.asc)
