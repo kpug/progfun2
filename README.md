@@ -22,3 +22,7 @@
 
 * [Recap: Functions and Pattern Matching](./week1/recap-functions-and-pattern-matching.asc)
 * [Recap: Collections](./week1/recap-collections.asc)
+* [1.1 Queries with for ](./week1/queries-with-for.asc)
+* [1.2 Translation Of For](./week1/translation-of-for.asc)
+* [1.3 Functional Random Generators](./week1/functional-random-generators.as)
+* [1.4 Monads](./week1/monads.asc)
