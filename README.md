@@ -31,3 +31,5 @@
 
 * [2.1 Structural Induction on Tree](./week2/structural-induction-on-trees.asc)
 * [2.2 Streams](./week2/streams.asc)
+* [2.3 Lazy Evaluation](./week2/lazy-evaluation.asc)
+* [2.4 Computing with Infinite Sequences](./week2/computing-with-infinite-sequences.asc)
