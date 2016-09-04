@@ -26,3 +26,8 @@
 * [1.2 Translation Of For](./week1/translation-of-for.asc)
 * [1.3 Functional Random Generators](./week1/functional-random-generators.as)
 * [1.4 Monads](./week1/monads.asc)
+
+## Week 2
+
+* [2.1 Structural Induction on Tree](./week2/structural-induction-on-trees.asc)
+* [2.2 Streams](./week2/streams.asc)
